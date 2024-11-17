@@ -1,0 +1,15 @@
+com\mycompany\maintienda\UsuarioService.class
+com\mycompany\maintienda\Pedido.class
+com\mycompany\maintienda\AdministradorService.class
+com\mycompany\maintienda\Carrito.class
+com\mycompany\maintienda\Persona.class
+com\mycompany\maintienda\AdministradorDAO.class
+com\mycompany\maintienda\Producto.class
+com\mycompany\maintienda\Usuario.class
+com\mycompany\maintienda\CarritoDAO.class
+com\mycompany\maintienda\Administrador.class
+com\mycompany\maintienda\MainTienda.class
+com\mycompany\maintienda\GenericDAO.class
+com\mycompany\maintienda\PedidoDAO.class
+com\mycompany\maintienda\ProductoDAO.class
+com\mycompany\maintienda\UsuarioDAO.class
